@@ -1,0 +1,11 @@
+= Readme
+:author: Jack O'Brien
+:icons: font
+:experimental:
+
+A d2 environment development shell. Make sure you have flakes enabled and simply type this into your shell.
+
+[source,bash]
+----
+nix develop github:PardusEidolon/d2Flake
+----
